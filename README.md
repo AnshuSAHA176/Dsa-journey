@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
