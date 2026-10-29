@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -42,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
