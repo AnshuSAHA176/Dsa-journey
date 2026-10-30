@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
+| [1583-count-unhappy-friends](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1583-count-unhappy-friends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1583-count-unhappy-friends](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1583-count-unhappy-friends) |
 <!---LeetCode Topics End-->
