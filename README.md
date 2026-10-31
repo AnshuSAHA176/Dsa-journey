@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
