@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
+| [0875-koko-eating-bananas](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [1583-count-unhappy-friends](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1583-count-unhappy-friends) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
