@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
 | [0739-daily-temperatures](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0739-daily-temperatures) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 ## Memoization
