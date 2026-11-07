@@ -12,4 +12,5 @@ class Solution:
             w2=solved(i=i,j=j+1,m=m,n=n)
             memo[(i,j)]= w1+w2
             return memo[(i,j)]
+        memo={}
         return solved(i=0,j=0,m=m,n=n)
