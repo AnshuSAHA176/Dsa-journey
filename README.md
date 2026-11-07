@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
