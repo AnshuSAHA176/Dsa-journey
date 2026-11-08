@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -125,14 +127,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Combinatorics
 |  |
 | ------- |
