@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Union-Find
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 ## Combinatorics
