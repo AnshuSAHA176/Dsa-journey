@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0046-permutations) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
