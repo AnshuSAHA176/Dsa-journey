@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
+| [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0739-daily-temperatures) |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
