@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1583-count-unhappy-friends](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1583-count-unhappy-friends) |
 ## Dynamic Programming
 |  |
@@ -170,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
