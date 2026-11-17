@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 ## Bit Manipulation
