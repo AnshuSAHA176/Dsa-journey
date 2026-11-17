@@ -4,7 +4,7 @@ class Solution:
             
             
             
-            s= s.strip().lower().replace(" ","")
+            s= s.strip().lower()
             left=0
             right=len(s)-1
             
