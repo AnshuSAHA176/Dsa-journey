@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
