@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
