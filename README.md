@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -199,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
