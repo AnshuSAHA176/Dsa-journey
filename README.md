@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0216-combination-sum-iii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Simulation
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
@@ -214,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
