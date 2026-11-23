@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0046-permutations) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0046-permutations) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0051-n-queens) |
 ## Depth-First Search
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0695-max-area-of-island) |
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
