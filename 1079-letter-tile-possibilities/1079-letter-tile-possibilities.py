@@ -7,7 +7,7 @@ class Solution:
                 frequency[tile]+=1
                 continue
             frequency[tile]=1
-        print(frequency)
+        
         def solved():
            
             count = 0
