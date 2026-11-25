@@ -31,8 +31,8 @@ func solveSudoku(board [][]byte) {
         return true
     }
 
-    var sudokuSolver func(int, int) bool
-
+    
+    var sudokuSolver func(int,int)bool
     sudokuSolver = func(row, col int) bool {
 
         // All rows completed
