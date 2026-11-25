@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1079-letter-tile-possibilities](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1079-letter-tile-possibilities) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1079-letter-tile-possibilities) |
 | [1496-path-crossing](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1496-path-crossing) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
