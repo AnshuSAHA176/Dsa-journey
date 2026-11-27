@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0525-contiguous-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1079-letter-tile-possibilities](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/1079-letter-tile-possibilities) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0443-string-compression) |
@@ -255,10 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AnshuSAHA176/Dsa-journey/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
