@@ -11,7 +11,7 @@ class Solution:
         i=0
         while current!=None:
             if current in seen:
-                print(seen)
+                
                 return current
             seen[current]=i
             i+=1
